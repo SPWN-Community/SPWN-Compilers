@@ -1,0 +1,7 @@
+first = 1
+second = 2g
+third = 3g
+
+first.move(0, -20, 0.50, @easing_type::{id: 1})
+second.move(0, -10, 0.50, @easing_type::{id: 1})
+third.move(0, -10, 0.50, @easing_type::{id: 1})
