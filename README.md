@@ -7,4 +7,4 @@ Making SPWN Compiling fast or easy.
 #### fstCmp - Compiles fstCmp.spwn to fstCmp (level) / Released. Initial, v1. Updates are coming soon or no.
 #### ezCmp - GUI Compiler. / Released. Initial, v1. Updates are coming soon.
 #### dvncCmp - Advanced GUI Compiler. / Planned. W.I.P. soon.
-if you wanna see site - https://spwn-community.github.io/spwn-compilers/index.html
+if you wanna see site - https://SPWN-Community.github.io/SPWN-Compilers/index.html
